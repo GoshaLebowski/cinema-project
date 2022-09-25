@@ -1,2 +1,2 @@
-# cinema-project
+# cinema-project1
 Учебный проект (шапка сайта "кинотеатр")
